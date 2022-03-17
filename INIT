@@ -1,6 +1,7 @@
 user pays $3 to purchase app.
-user creates account and purchases first NFT from 'select' vision NFT for 3$.
-initial NFT purchase is used as the loading screen for the app. [identifies users origin]
-  3 second loading screen can be changed to any portion of initial NFT.
-  3 second loading screen can be changed to and upon purchase of any NFT.
+user creates account and purchases subscription for $3.
+  subscription includes a 'select vision NFT' 
+    initial NFT purchase is used as the loading screen for the app. [identifies users origin]
+      3 second loading screen can be changed to any portion of initial NFT.
+      3 second loading screen can be changed to and upon purchase of any NFT.
 
