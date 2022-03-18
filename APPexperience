@@ -1,16 +1,17 @@
 vision is a single screen based app.
 the main screen is called the 'view'.
-top left corner has the 'v' watermark. 
+top left corner has the 'v' (vision brand) watermark. 
   clicking 'v' defaults to [vision] view.
     [vision] view is a curated gallery of the algorithms favorite drops.
 top right corner is the visionary's corner.
   visionary's corner shows users profile picture as a drop down.
+      includes follow and dm. 
     drop down menu moves diagonally to a 4/3 triangle of the screen.
       visionary's drop down is a scrollable profile view.
       tap visoinary's corner for dropdown.
       tap visionary's corner again for retract.
 bottom right hand corner is the goldheart.
-   goldheart of each post reveals relative to the viewers interaction with it.
+   goldhearts of each post reveal relative to the viewers interaction with it.
       i.e. if viewer looks at post for 22 secconds and gives a goldheart, goldheart will overlay at 22s.
         goldheart overlays become part of the post.
         viewers can toggle on/off goldheart section.
@@ -24,4 +25,8 @@ left of the goldheart is the comment.
       i.e. if viewer looks at post for 22 secconds and types a comment, comment will overlay at 22s.
         comment section becomes part of the post.
           viewers can toggle on/off comment section.
-  
+left of the comment is the 'V' (vision pyramid logo).
+  'V' takes the user to camera or media access.
+    choose between take photo, video, or interact.
+      interact allows user to create new content from posted content.
+    
