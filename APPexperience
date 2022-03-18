@@ -1,0 +1,11 @@
+vision is a single screen based app.
+the main screen is called the 'view'.
+top left corner has the 'v' watermark. 
+  clicking defaults to [vision] view.
+    [vision] view is a curated gallery of the algorithms favorite drops.
+top right corner is the visionary's corner.
+  visionary's corner shows users profile picture as a drop down.
+    drop down menu moves diagonally to a 4/3 triangle of the screen.
+      visionary's drop down is a scrollable profile view.
+      tap visoinary's corner for dropdown.
+      tap visionary's corner again for retract.
