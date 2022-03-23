@@ -1,10 +1,10 @@
 vision is a single screen based app.
-the main screen is called the 'view' 
-  (always defaults to the vision view)
-     top left corner of the view has the vision crest 
+  the main screen is called the 'view' 
+    (always defaults to the vision view)
+     top left corner of the view has the vision crest icon.
        vision crest -> vision view
         vision view is the curated vision of the collective whole and its trending NFT drops.
-     top right corner is the visionary's (NFT creator) corner.
+     top right corner has the visionary's profile icon.
         visionary's corner shows users profile picture in a circle.
           behind users profile picture is a drop down menu.
             drop down menu moves diagonally to a 4/3 triangle of the screen.
