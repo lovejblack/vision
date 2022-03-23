@@ -1,24 +1,25 @@
 vision is a single screen based app.
   the main screen is called the 'view' 
-      (always defaults to the vision view)
      top left corner (in portrait) of the view has the vision crest icon.
        vision crest -> vision view
         vision view is the curated vision of the collective whole and its trending NFT drops.
+        (app always defaults to the vision view)
      top right corner has the visionary's profile icon in a circle.
-          behind users profile picture is triangle a drop down .
+          behind users profile picture is triangle a drop down menu.
             drop down menu moves diagonally to a 4/3 triangle of the screen.
              visionary's drop down is a scrollable profile view.
                 tap visoinary's corner for dropdown.
                   tap visionary's corner again for retract.
-     below is the LOVE (like/LOVE).
+     below is the LOVE (like/LOVE) icon.
        tap to like (red)
        double tap to love (gold)
-          hearts of each post reveal relative to the viewers interaction with it.
-          i.e. if viewer looks at post for 22 secconds and gives a goldheart, goldheart will overlay at 22s.
-        goldheart overlays become part of the post.
-        viewers can toggle on/off goldheart section.
-      each visionary or viewer can choose a proceed donation from each transaction.
-        i.e. for every goldheart, comment, share, record; a protion of the transaction whether sent or recieved can bless another.
+          hearts of each drop reveal relative to the viewers interaction with it.
+            i.e. if viewer looks at post for 22 secconds and gives a goldheart, goldheart will overlay at 22s.
+            hearts fall from the top down on the right side of the device.
+            goldheart overlays become part of the post.
+            viewers can toggle on/off goldheart section.
+            each user can choose a proceed donation from proceeds given and recieved.
+              i.e. for every goldheart, comment, share, record; a portion of sent or recieved transactions can bless another.
           default blessing goes to the indigenous people of colombia.
 left of the goldheart is the comment.
   tapping the comment exposes the dropdown keyboard which extends from the top of the screen.
