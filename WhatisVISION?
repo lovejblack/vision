@@ -16,6 +16,7 @@
     i.e. users may choose the native camera or any app on the users device. -Filmic Pro, InShot, Lightroom, Halide, TikTok, etc.
   screen always orients to the content  
     i.e. content shot in potrait always orients to portrait, landscape to landscape.
+      icons also orient to device orientation. 
        device vibrates to notify user to change orientation.
   
   
