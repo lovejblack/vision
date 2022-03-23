@@ -1,5 +1,7 @@
-vision is a single screen based app.
-  the main screen is called the 'view' 
+vision is a three screen app.
+  the one screen is called the 'view'.
+  the two screen is called the 'create'.
+  the three screen is called the 'we'.
      top left corner (in portrait) of the view has the vision crest icon.
        vision crest -> vision view
         vision view is the curated vision of the collective whole and its trending NFT drops.
@@ -30,10 +32,12 @@ vision is a single screen based app.
            comment section becomes part of the drop.
            viewers can toggle on/off comment section.
      bottom center has the vision center icon.
+       vision center -> create view
       vision center takes user to camera or media access.
         choose between take photo, video, or interact.
           photo and video mode default to native camera.
             user can opt to use 3rd party cameras as plugins.
-              i.e. 
+               i.e. users may choose the native camera or any app on the users device. -Filmic Pro, InShot, Lightroom, Halide, TikTok, etc.
           interact allows user to create new content from posted content.
+            i.e. when viewing a drop user taps vision center icon and chooses interact to 
     
