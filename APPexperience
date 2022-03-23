@@ -29,8 +29,11 @@ vision is a single screen based app.
            comments scroll up from the bottom.
            comment section becomes part of the drop.
            viewers can toggle on/off comment section.
-     below of the comment is the 'V' (vision pyramid logo).
-  'V' takes the user to camera or media access.
-    choose between take photo, video, or interact.
-      interact allows user to create new content from posted content.
+     bottom center has the vision center icon.
+      vision center takes user to camera or media access.
+        choose between take photo, video, or interact.
+          photo and video mode default to native camera.
+            user can opt to use 3rd party cameras as plugins.
+              i.e. 
+          interact allows user to create new content from posted content.
     
