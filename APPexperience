@@ -40,4 +40,33 @@ vision is a three screen app.
     top left corner is the SELECTS icon
       selects is a pull down allowing the user to choose the content for creation.
         i.e. camera roll, albums, another users drop, etc.
+    top center left is the FILTERS icon
+      filters is a pull down allowing the user to choose from free or purchased preset and user created filters.
+    top center right is the OVERLAYS
+      overlays is a pull down allowing the user to choose from free or purchased preset and user created overlays.
+        i.e. images, gifs, transitions, animations, etc.
+    top right is the AUDIO icon
+      audio is a pull down allowing the user to adjust audio levels and choose from free or purchased preset and user created audio.
+        i.e. songs, sound fx, foley etc.
+    beneath the top row of icons is the CANVAS
+      canvas is the window showing the users progress while editing. 
+    beneath the canvas is the CUTS 
+      cuts is the timeline where pictures, video, audio, filters, and overlays are adjusted.
+    bottom right is the COLLAB icon
+      collab is drop down allowing users to share and collaborate with others prior to forging (minting).
+        i.e. editor, musician, colorist, etc.
+    bottom center is the FORGE icon
+      forge mints the NFT and publishes to a users vision.
+    bottom left is the PROPS icon
+      props is a drop down allowing users to comment on a select drop.
+  
+  WE
+    top center is the DISCOVER search bar.
+      discover allows user to search for anything in the marketplace.
+    under the discover bar is FEATURED carousel.
+      featured is the trending users and products.
+    under featured is the MARKET grid.
+      market grid shows the catagories of user created goods and sevices.
+        i.e. user created app skins, filters, editing, custom animation, etc.
     
+        
