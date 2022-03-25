@@ -1,23 +1,24 @@
-[VISION] is basically an {NFT-TOK} or {NFT-tagram} plain and simple. very simple for user.
-  VISION is a ledger based social media platform where a creator [visionary] publishes content which is minted as an NFT. 
-  the visionary chooses the pay per view price, sale price, or any concieveable monetization strategy.
-  VISION takes 3% of every transaction.
-  the [viewer] is the user who interacts with the visionary's content.
-  each user is verified through linking or creating an uphold account and recieves a wallet with one native token called [VISN].
-    1 VISN is worth 1,000,000 V.
-  VISION runs on the XRP ledger.
-  the visionary can curate thier own content or allow other visionaries or viewers or the VISION algorithm for an agreed upon fee.
-  a collection of a users work is called a vision.
-  a visionary or a viewer can create their own visions from content created by other users splitting the revenue with remainders going to VISION.
+[VISION] front end is basically an {NFT-TOK} or {NFT-tagram} plain and simple. very simple for user.
+  VISION back end is a marketplace where a user can buy and sell digital goods "NFTs" or services "editing, API dev, avatar clothing etc."
+    VISION is a ledger based social media platform where a creator [visionary] publishes content which is minted as an NFT. 
+    the visionary chooses the pay per view price, sale price, or any concieveable monetization strategy.
+    VISION takes 3% of every transaction.
+   the [viewer] is the user who interacts with the visionary's content.
+    each user is verified through linking or creating an uphold account and recieves a wallet with one native token called [VISN].
+      1 VISN is worth 1,000,000 V.
+    VISION runs on the XRP ledger.
+   the visionary can curate thier own content or allow other visionaries or viewers or the VISION algorithm for an agreed upon fee.
+    a collection of a users work is called a vision.
+   a visionary or a viewer can create their own visions from content created by other users splitting the revenue with remainders going to VISION.
     upon completion of the first vision, a viewer becomes a visionary.
-  when an NFT is minted, VISION creates an encoded version called a ghost.
-    the ghost can be freely distributed with 33% of the revenue it generates always going to the original visionary.
-  VISION works with all 3rd party app functionality
-    i.e. users may choose the native camera or any app on the users device. -Filmic Pro, InShot, Lightroom, Halide, TikTok, etc.
-  screen always orients to the content  
-    i.e. content shot in potrait always orients to portrait, landscape to landscape.
-      icons also orient to device orientation. 
-       device vibrates notifying user to change orientation.
+    when an NFT is minted, VISION creates an encoded version called a ghost.
+      the ghost can be freely distributed with 33% of the revenue it generates always going to the original visionary.
+   VISION works with all 3rd party app functionality
+     i.e. users may choose the native camera or any app on the users device. -Filmic Pro, InShot, Lightroom, Halide, TikTok, etc.
+    screen always orients to the content  
+     i.e. content shot in potrait always orients to portrait, landscape to landscape.
+       icons also orient to device orientation. 
+         device vibrates notifying user to change orientation.
   
   
   
