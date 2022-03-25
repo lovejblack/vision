@@ -8,13 +8,13 @@ vision is a three screen app.
        vision V -> vision view
         vision view is the curated vision of the collective whole and its trending NFT drops.
         (app always defaults to the vision view)
-    top right corner has the visionary's profile icon in a circle.
+    top right corner has the visionary's PROFILE icon in a circle.
           behind users profile picture is triangle a drop down menu.
             drop down menu moves diagonally to a 4/3 triangle of the screen.
              visionary's drop down is a scrollable profile view.
                 tap visoinary's corner for dropdown.
                   tap visionary's corner again for retract.
-    bottom right corner has the vision center icon.
+    bottom right corner has the VISION CENTER icon.
        vision center -> create
         create takes user to NFT creation center
         choose between take photo, video, or interact.
@@ -24,7 +24,7 @@ vision is a three screen app.
           interact allows user to create new content from posted content or add comments to a drop.
               *COMMENTING IS LESS IMPORTANT THAN RECREATING NEW CONTENT
             i.e. when viewing a drop user taps vision center icon and chooses interact to create something new.
-    bottom left corner is the LOVE (like/LOVE) icon.
+    bottom left corner is the LOVE icon (like/LOVE).
        tap to like (red)
        double tap to love (gold)
           hearts of each drop overlay relative to the users interaction with it.
@@ -37,4 +37,7 @@ vision is a three screen app.
               default blessing goes to the indigenous people of colombia.
     
   CREATE
+    top left corner is the SELECTS icon
+      selects is a pull down allowing the user to choose the content for creation.
+        i.e. camera roll, albums, another users drop, etc.
     
